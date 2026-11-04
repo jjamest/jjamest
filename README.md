@@ -1,4 +1,4 @@
 # James Tan
-Email: tanjames at umich dot edu
+tanjames [at] umich [dot] edu
 
-Website: www.tanjames.com
+www.tanjames.com
